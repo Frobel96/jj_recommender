@@ -2,6 +2,7 @@
 Jupyter Jasmine Recommender Package
 ===================================
 
+SPAM SPAM SPAM SPAM SPAM
 
 .. image:: https://img.shields.io/pypi/v/jj_recommender.svg
         :target: https://pypi.python.org/pypi/jj_recommender
